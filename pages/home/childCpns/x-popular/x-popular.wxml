@@ -1,0 +1,3 @@
+<view class="popular">
+	<image src="{{recommend_bg}}" mode="widthFix"/>
+</view>

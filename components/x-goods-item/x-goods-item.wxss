@@ -1,0 +1,44 @@
+.goods-item {
+  text-align: center;
+  color: #333;
+  padding-bottom: 85rpx;
+}
+
+.image {
+  width: 100%;
+  border-radius: 20rpx;
+}
+
+.goods-item>.desc-info {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 5rpx;
+}
+
+.title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 28rpx;
+}
+
+.info {
+  font-size: 26rpx;
+}
+
+.info .price {
+  color: #ff5777;
+}
+
+.info .icon {
+  width: 30rpx;
+  height: 30rpx;
+  padding: 0 6rpx 0 10rpx;
+  position: relative;
+  top: 4rpx;
+}
+
+.cfav {
+  position: relative;
+}

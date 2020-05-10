@@ -1,0 +1,3 @@
+<view class="back-top" bind:tap="hanldeBackTop">
+  <image src="/assets/common/top.png" />
+</view>
